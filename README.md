@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Cyclomatic-Cyclops
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me: cyclomatic.cyclops@gmail.com
